@@ -52,6 +52,7 @@ comments:
     theme                : "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
     loading              : "lazy"
     lang                 : "es"
+    input_position       : "top"
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
