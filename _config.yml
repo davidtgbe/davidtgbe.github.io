@@ -46,7 +46,7 @@ comments:
   giscus:
     repo_id              : "R_kgDOJiMWoQ" # Shown during giscus setup at https://giscus.app
     category_name        : "Comentarios" # Full text name of the category
-    category_id          : "DIC_kwDOJiMWoc4CWg2q" # Shown during giscus setup at https://giscus.app
+    category_id          : "DIC_kwDOJiMWoc4CWp1O" # Shown during giscus setup at https://giscus.app    
     discussion_term      : "url" # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
     theme                : "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
