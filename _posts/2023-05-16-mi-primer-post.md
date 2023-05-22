@@ -3,7 +3,7 @@ title: Mi primer post
 tags:
  - varios
  - pruebas
-categories: [Sin categoría]
+categories: [Sin categoria]
 excerpt: Una simple prueba con menú lateral de navegación.
 toc: true
 ---
